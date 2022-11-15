@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Auth from "../auth";
 const Footer: React.FC = ({}) => {
-    return (
+    return ( 
       <section className="h-8">
         <div className="flex justify-center space-x-8">
           <a href="#!" role="button">
